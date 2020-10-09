@@ -36,6 +36,7 @@ Timeout /t 4 >nul
     @Mode 35,14
     @Title Tic Tac Toe Game
     cls
+    color 07
     :: Generating files
     if not exist Batbox.exe (certutil -decode Batbox Batbox.exe 1>nul)
     if not exist fn.dll (certutil -decode Batbox fn.dll 1>nul)
