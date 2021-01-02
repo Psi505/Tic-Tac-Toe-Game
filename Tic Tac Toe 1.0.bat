@@ -13,7 +13,7 @@ call :Winner_Display
 ::------------- Funcs ---------------::
 :Info
     @Mode 78,15
-    @Title Tic Tac Toe Game 1.0 ^| Hamza Guesmi ^(c^) 2020
+    @Title Tic Tac Toe Game 1.0 ^| Psi505 ^(c^) 2020
     color 1e
     echo.
     echo  :=------------------------------------------------------------------------=:
@@ -26,7 +26,7 @@ call :Winner_Display
     echo.
     echo.
     echo.
-    echo                              Author : Hamza Guesmi
+    echo                              Author : Psi505
     echo.
     echo  :=------------------------------------------------------------------------=:
 Timeout /t 4 >nul
