@@ -6,7 +6,6 @@
 call :WelcomeScreen
 call :initGame
 call :Play
-call :displayWinner
 ::-----------------------------------::
 
 
@@ -17,7 +16,7 @@ call :displayWinner
     color 1e
     :: Hide the cursor
     Batbox /h 0
-    
+
     echo.
     echo  :=------------------------------------------------------------------------=:
     echo.
