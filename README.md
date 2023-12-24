@@ -1,7 +1,25 @@
-Tac Tac Toe is a simple batch game made totally by me.
+## Description
 
-It's so simple and enjoyable to play with others.
+The program is a minimalist Tic Tac Toe game developed solely by me using Batch scripting. This command-line game brings the classic Tic Tac Toe experience to your console, offering a simple and enjoyable way to pass the time with a frined.
 
-:: For better graphical display :)
- * After openig the game > Right click on top > click on Properties > Click on Fonts > Choose "Raster Fonts" > Chose Size "8 x 12"
- * Now close the game and open it again. Done!
+
+## How to Play
+
+1. Clone the repository to your local machine.
+2. Run the `Tic Tac Toe.bat` file to start the game.
+3. Enjoy :).
+
+
+## Screenshots
+![](https://raw.githubusercontent.com/Psi505/Tic-Tac-Toe-Game/main/Screenshot_1.png)
+
+![](https://raw.githubusercontent.com/Psi505/Tic-Tac-Toe-Game/main/Screenshot_2.png)
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+A huge thank you to myself for creating Tac Tac Toe!
